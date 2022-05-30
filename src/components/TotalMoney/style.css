@@ -1,0 +1,33 @@
+.container-balance {
+	width: 363px;
+	height: 96px;
+	margin-top: 16px;
+	margin-left: 10px;
+	background: #ffffff;
+	border: 1px solid #e9ecef;
+	border-radius: 4px;
+	font-family: "Nunito", sans-serif;
+}
+
+.resume-balance {
+	width: 360px;
+	height: 30px;
+	margin-top: 16px;
+	margin-left: 24px;
+	font-weight: 700;
+	font-size: 16px;
+}
+
+.balance {
+	margin-left: 170px;
+	color: #fd377e;
+	font-weight: 700;
+}
+
+.span-balance {
+	width: 138px;
+	height: 22px;
+	color: #5b6166;
+	font-size: 12px;
+	margin-left: 24px;
+}

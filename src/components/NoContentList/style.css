@@ -1,0 +1,9 @@
+.noContentList {
+	width: 72%;
+}
+
+@media (max-width: 900px) {
+	.noContentList {
+		margin: 0 auto;
+	}
+}
